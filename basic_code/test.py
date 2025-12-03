@@ -18,3 +18,5 @@ plt.title("sin&cos")
 plt.legend()
 plt.show()
 
+
+print("make git conflict")
