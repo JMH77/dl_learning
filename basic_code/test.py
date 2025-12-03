@@ -24,3 +24,4 @@ plt.show()
 
 
 print("make git conflict")
+print("conflict2")
